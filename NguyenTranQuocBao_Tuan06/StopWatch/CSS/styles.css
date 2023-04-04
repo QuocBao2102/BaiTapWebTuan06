@@ -1,0 +1,26 @@
+.wrapper {
+    padding: 100px;
+    text-align: center;
+    background-color: cadetblue;
+    color: black;
+    width: 200px;
+    height: 94px;
+    margin-left: 560px;
+}
+
+.title h2 {
+    margin-top: -50px;
+    font-size: 30px;
+}
+
+.title #minute {
+    font-size: 30px;
+}
+
+.title #second {
+    font-size: 30px;
+}
+
+.title #milisc {
+    font-size: 30px;
+}
